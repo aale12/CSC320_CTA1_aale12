@@ -3,6 +3,6 @@
 This application prints the following information for a fictional person:
 - First Name
 - Last name
-- Streed Address
+- Street Address
 - City
 - Zip Code
